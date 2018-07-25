@@ -4,6 +4,11 @@ import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
+/**
+ * Standard response
+ * @author vedang.rane
+ *
+ */
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class FriendManagerResponse {
 

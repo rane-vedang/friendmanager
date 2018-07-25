@@ -10,6 +10,11 @@ import org.springframework.stereotype.Component;
 
 import com.friendmanager.exception.FriendManagerException;
 
+/**
+ * 
+ * @author vedang.rane
+ *
+ */
 @Component
 public class FriendManager implements ISociable {
 
